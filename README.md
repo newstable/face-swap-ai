@@ -47,7 +47,7 @@ Face Recognition in Videos (doc/faceRecognition.md)
 
 Avatar Effect Composition (doc/compose.md)
 
-Gender Recognition (doc/gender.md)
+Gender Recognition (doc/gender.md) 
 
 Expression Recognition (doc/emotion.md)
 
